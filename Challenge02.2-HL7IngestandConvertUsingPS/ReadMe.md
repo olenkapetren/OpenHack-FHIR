@@ -122,3 +122,5 @@ Below are some common setup issues you might run into with possible resolutions.
 ***
 
 [Go to Challenge03 - Export and Anonymize: Bulk export data from Azure API for FHIR and deidentify the data](../Challenge03-ExportandAnonymizeData/ReadMe.md)
+
+#interesting
